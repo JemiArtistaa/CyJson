@@ -1,0 +1,14 @@
+
+[
+  {
+    "name" : "invalidLogin",
+    "uName": "Admin",
+    "pWord": "admin"
+  },
+  {
+    "name" : "validLogin",
+    "uName": "Admin",
+    "pWord": "admin123"
+  }
+
+]
